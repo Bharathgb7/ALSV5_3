@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/UE_Projects/ALSV5_3/Content/ALS/Character/BP_Character.uasset",
+				"C:/UE_Projects/ALSV5_3/Content/ALS/Animation/Blueprints/ABP_Base.uasset",
+				"C:/UE_Projects/ALSV5_3/Content/ALS/Animation/Blueprints/ABP_Layers.uasset",
+				"C:/UE_Projects/ALSV5_3/Content/Levels/LVL_01.umap",
 				"C:/UE_Projects/UdemyALS5_3/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/UE_Projects/UdemyALS5_3/Content/Levels/LVL_01.umap",
 				"C:/UE_Projects/UdemyALS5_3/Content/ALS/Character/BP_Character.uasset",
