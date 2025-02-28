@@ -313,6 +313,8 @@
 				"C:/UE_Projects/ALSV5_3/Content/ALS/Input/InputActions/IA_Reload.uasset",
 				"C:/UE_Projects/ALSV5_3/Content/ALS/Animation/Animations/Pistol/Gun/AM_MM_Pistol_Reload_Montage.uasset",
 				"C:/UE_Projects/ALSV5_3/Content/ALS/Animation/Animations/Rifle/Gun/AM_MM_Rifle_Reload_Montage.uasset",
+				"C:/UE_Projects/ALSV5_3/Content/ALS/DataTables/DT_GateSetting.uasset",
+				"C:/UE_Projects/ALSV5_3/Content/ALS/Struct/S_GateSetting.uasset",
 				"C:/UE_Projects/ALSV5_3/Content/ALS/SkeletalMeshes/Pistol/MI_Weapon_Pistol.uasset",
 				"C:/UE_Projects/ALSV5_3/Content/ALS/SkeletalMeshes/Rifle/MI_Weapon_Rifle.uasset",
 				"C:/UE_Projects/ALSV5_3/Content/ALS/Animation/Animations/Pistol/Jog/MM_Pistol_Jog_Right.uasset",
